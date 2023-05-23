@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a47a63dc-d66a-48c5-9f2d-930dbc79794b" name="Changes" comment="comit2">
+    <list default="true" id="a47a63dc-d66a-48c5-9f2d-930dbc79794b" name="Changes" comment="comit3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +51,26 @@
       <recent name="C:\Users\danya\IdeaProjects\Autoqa24\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task5">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Chernovik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkElementDriver.Task3.Chernovik" />
+      <option name="MAIN_CLASS_NAME" value="HomeWorkSelectAction.Chernovik" />
       <module name="Autoqa24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkElementDriver.Task3.*" />
+          <option name="PATTERN" value="HomeWorkSelectAction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorkSelectAction.Task1" />
+      <module name="Autoqa24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWorkSelectAction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,24 +79,11 @@
       </method>
     </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkElementDriver.Task2.Task2" />
+      <option name="MAIN_CLASS_NAME" value="HomeWorkSelectAction.Task2" />
       <module name="Autoqa24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkElementDriver.Task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkElementDriver.Task3.Task3" />
-      <module name="Autoqa24" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeworkElementDriver.Task3.*" />
+          <option name="PATTERN" value="HomeWorkSelectAction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Chernovik" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Chernovik" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,9 @@
       <workItem from="1684346008618" duration="612000" />
       <workItem from="1684399243895" duration="6295000" />
       <workItem from="1684406232685" duration="19726000" />
-      <workItem from="1684486293178" duration="9493000" />
+      <workItem from="1684486293178" duration="11856000" />
+      <workItem from="1684767665742" duration="12070000" />
+      <workItem from="1684829061823" duration="7137000" />
     </task>
     <task id="LOCAL-00001" summary="comit2">
       <created>1684239248460</created>
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684239248460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comit3">
+      <created>1684502781750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684502781750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit2" />
+    <MESSAGE value="comit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit3" />
   </component>
 </project>
